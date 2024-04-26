@@ -12,7 +12,7 @@ Esse projeto se refere a quest de JavaScript Avançado, do curso de desenvolvime
     git clone https://github.com/guisalva/projeto-fetch-github-api.git
 2. **Navegue até o repositório**: Navegue até a pasta do repositório.
     ```bash
-    cd seu-projeto
+    cd projeto-fetch-github-api
 ## Uso
 
 - **Abra o arquivo `index.html`**: Abra o arquivo `index.html` no seu navegador preferido.
